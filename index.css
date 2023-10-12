@@ -1,0 +1,512 @@
+.image-1-icon,
+.ptbalogo-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1759px;
+  height: 1104px;
+  object-fit: cover;
+}
+.ptbalogo-icon {
+  top: 29px;
+  left: 121px;
+  width: 234px;
+  height: 43px;
+}
+.beranda-tentang-tata {
+  position: absolute;
+  top: 49px;
+  left: calc(50% - 275px);
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--color-black);
+}
+.perusahaan-energi-kelas {
+  position: absolute;
+  top: 184px;
+  left: 186px;
+  font-size: 19px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 627px;
+  height: 54px;
+}
+.ptba-child {
+  position: absolute;
+  top: 704px;
+  left: 1px;
+  background-color: var(--color-white);
+  width: 1366px;
+  height: 1595px;
+}
+.pt-bukit-asam {
+  position: absolute;
+  top: 114px;
+  left: 184px;
+  font-size: 56px;
+  color: var(--color-black);
+}
+.budaya-kerja,
+.struktur-organisasi {
+  position: absolute;
+  top: 1671px;
+  left: calc(50% - 171px);
+  font-weight: 800;
+  color: var(--color-gold);
+}
+.struktur-organisasi {
+  top: 2246px;
+  left: calc(50% - 246px);
+  opacity: 0.85;
+}
+.kerja-cerdas-kerja {
+  position: absolute;
+  top: 2042px;
+  left: calc(50% - 481px);
+  font-size: 28px;
+  font-weight: 600;
+  color: var(--color-gold);
+}
+.icon-kerja-cerdas-1,
+.icon-kerja-ikhlas-1,
+.icon-kerja-keras-1 {
+  position: absolute;
+  top: 1804px;
+  left: 171px;
+  width: 237px;
+  height: 215px;
+  object-fit: cover;
+}
+.icon-kerja-ikhlas-1,
+.icon-kerja-keras-1 {
+  left: 680px;
+  width: 241px;
+  height: 232px;
+}
+.icon-kerja-keras-1 {
+  top: 1803px;
+  left: 434px;
+  width: 220px;
+}
+.ptba-inner,
+.ptba-item {
+  position: absolute;
+  top: 3343px;
+  left: -29px;
+  background-color: var(--color-gold);
+  width: 1427px;
+  height: 1319px;
+}
+.ptba-inner {
+  top: 6984px;
+  left: -15px;
+  width: 1381px;
+  height: 613px;
+}
+.icon-kerja-tuntas-1 {
+  position: absolute;
+  top: 1805px;
+  left: 947px;
+  width: 244px;
+  height: 231px;
+  object-fit: cover;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 1052px;
+  left: 126px;
+  width: 1111px;
+  height: 492px;
+}
+.profil-singkat-pt {
+  position: absolute;
+  top: 751px;
+  left: 173px;
+  font-size: var(--font-size-17xl);
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 667px;
+  height: 77px;
+}
+.memaksimalkan-inovasi-untuk {
+  margin: 0;
+}
+.memaksimalkan-inovasi-untuk-container {
+  position: absolute;
+  top: 828px;
+  left: 173px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 1020px;
+}
+.icon-laporan-tahunan-1,
+.icon-siaran-pers-1 {
+  position: absolute;
+  top: 6419px;
+  left: 616px;
+  width: 411px;
+  height: 417px;
+  object-fit: cover;
+}
+.icon-siaran-pers-1 {
+  top: 6439px;
+  left: 897px;
+  width: 415px;
+  height: 378px;
+}
+.icon-procurement-1,
+.icon-sistem-pengaduan-1 {
+  position: absolute;
+  top: 6421px;
+  left: 55px;
+  width: 408px;
+  height: 416.88px;
+  object-fit: cover;
+}
+.icon-procurement-1 {
+  left: 330px;
+  width: 420px;
+  height: 417px;
+}
+.e-procurement,
+.laporan-tahunan,
+.siaran-pers,
+.sistem-pengaduan {
+  position: absolute;
+  top: 6670px;
+  left: 199px;
+  font-size: var(--font-size-xl);
+  font-weight: 800;
+  text-align: center;
+}
+.e-procurement,
+.laporan-tahunan,
+.siaran-pers {
+  left: 467px;
+}
+.laporan-tahunan,
+.siaran-pers {
+  top: 6678px;
+  left: 774px;
+}
+.siaran-pers {
+  left: 1070px;
+}
+.misi,
+.visi {
+  position: absolute;
+  top: 1100px;
+  left: 727px;
+  font-size: var(--font-size-17xl);
+  font-weight: 600;
+}
+.misi {
+  top: 1234px;
+}
+.mengelola-sumber-energi,
+.menjadi-perusahaan-energi {
+  position: absolute;
+  top: 1146px;
+  left: 727px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 460px;
+}
+.mengelola-sumber-energi {
+  top: 1280px;
+}
+.pt-bukit-asam-produksi-19-4-ju-icon {
+  position: absolute;
+  top: 1100px;
+  left: 173px;
+  border-radius: 50px;
+  width: 445px;
+  height: 396px;
+  object-fit: cover;
+}
+.struktur-organisasi-1 {
+  position: absolute;
+  top: 2295px;
+  left: 130px;
+  width: 1101px;
+  height: 1426px;
+  object-fit: cover;
+}
+.dewan-komisaris {
+  position: absolute;
+  top: 3460px;
+  left: 170px;
+  font-weight: 800;
+}
+.direksi,
+.milestone {
+  position: absolute;
+  left: 173px;
+  font-weight: 800;
+}
+.milestone {
+  top: 4755px;
+  color: var(--color-gold);
+  display: inline-block;
+  width: 337px;
+  height: 32px;
+}
+.direksi {
+  top: 4000px;
+}
+.rahmat-hidayat-pulungan {
+  font-size: 12px;
+}
+.arsal-ismail-farida,
+.irwandi-arif-andi-container {
+  position: absolute;
+  top: 3867px;
+  left: 189px;
+  font-weight: 800;
+  font-size: var(--font-size-sm);
+}
+.arsal-ismail-farida {
+  top: 4436px;
+  left: 205px;
+}
+.komisaris-utama-komisaris {
+  position: absolute;
+  top: 3890px;
+  left: 186px;
+  font-size: var(--font-size-2xs);
+}
+.direktur-keuangan-dan {
+  font-size: 9px;
+}
+.direktur-utama-direktur-container {
+  position: absolute;
+  top: 4459px;
+  left: 206px;
+  font-size: var(--font-size-2xs);
+}
+.board-of-commissioners,
+.directors {
+  position: absolute;
+  top: 3532px;
+  left: 170px;
+  font-size: var(--font-size-15xl);
+}
+.directors {
+  top: 4053px;
+  left: 173px;
+}
+.andi-pahril-pawi-1,
+.carlo-brix-tewu-1,
+.e-1-icon,
+.irwandy-arif-1,
+.kurnia-toha-1,
+.rahmat-hidayat-pulungan-1 {
+  position: absolute;
+  top: 3625px;
+  left: 150px;
+  border-radius: var(--br-11xl);
+  width: 163px;
+  height: 230px;
+  object-fit: cover;
+}
+.andi-pahril-pawi-1,
+.carlo-brix-tewu-1,
+.e-1-icon,
+.kurnia-toha-1,
+.rahmat-hidayat-pulungan-1 {
+  left: 330px;
+}
+.carlo-brix-tewu-1,
+.e-1-icon,
+.kurnia-toha-1,
+.rahmat-hidayat-pulungan-1 {
+  left: 510px;
+  width: 164px;
+  height: 231px;
+}
+.carlo-brix-tewu-1,
+.kurnia-toha-1,
+.rahmat-hidayat-pulungan-1 {
+  top: 3624px;
+  left: 1056px;
+  height: 232px;
+}
+.carlo-brix-tewu-1,
+.kurnia-toha-1 {
+  top: 3626px;
+  left: 692px;
+  height: 230px;
+}
+.kurnia-toha-1 {
+  left: 875px;
+  width: 163px;
+  height: 229px;
+}
+.arsal-ismail-1,
+.farida-thamrin-1 {
+  position: absolute;
+  width: 198px;
+  object-fit: cover;
+}
+.arsal-ismail-1 {
+  top: 4146px;
+  left: 150px;
+  border-radius: var(--br-16xl);
+  height: 278px;
+}
+.farida-thamrin-1 {
+  left: 368px;
+}
+.farida-thamrin-1,
+.suhedi-1-icon,
+.suherman-1-icon {
+  top: 4146px;
+  border-radius: var(--br-16xl);
+  height: 278px;
+}
+.suhedi-1-icon {
+  position: absolute;
+  left: 586px;
+  width: 197px;
+  object-fit: cover;
+}
+.suherman-1-icon {
+  left: 804px;
+  width: 198px;
+}
+.milestone-1,
+.rafli-yandra-1,
+.suherman-1-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.rafli-yandra-1 {
+  top: 4146px;
+  left: 1023px;
+  border-radius: var(--br-16xl);
+  width: 197px;
+  height: 278px;
+}
+.milestone-1 {
+  top: 4823px;
+  left: 89px;
+  width: 1188px;
+  height: 1535px;
+}
+.hubungi-kami {
+  position: absolute;
+  top: 7059px;
+  left: 173px;
+  font-weight: 800;
+}
+.li {
+  margin-bottom: 0;
+}
+.jl-parigi-no1-tanjung-enim {
+  margin: 0;
+  padding-left: 27px;
+}
+.jl-parigi-no1-container {
+  position: absolute;
+  top: 7150px;
+  left: 173px;
+  font-size: var(--font-inherit);
+  font-weight: 500;
+  font-family: var(--font-inherit);
+}
+.logo-sosmed-copy-1 {
+  position: absolute;
+  top: 7138px;
+  left: 984px;
+  width: 209px;
+  height: 58px;
+  object-fit: cover;
+}
+.ptba-2-icon,
+.ptba-child1 {
+  position: absolute;
+  top: 7341px;
+  left: 0;
+  width: 1381px;
+  height: 81px;
+}
+.ptba-2-icon {
+  top: 7354px;
+  left: 173px;
+  width: 234px;
+  height: 43px;
+  object-fit: cover;
+}
+.formkitdown-icon,
+.formkitdown-icon1 {
+  position: absolute;
+  top: 58px;
+  left: 475px;
+  width: 16px;
+  height: 7px;
+  overflow: hidden;
+}
+.formkitdown-icon1 {
+  left: 585px;
+}
+.formkitdown-icon2,
+.formkitdown-icon3,
+.formkitdown-icon4,
+.formkitdown-icon5,
+.formkitdown-icon6,
+.formkitdown-icon7 {
+  position: absolute;
+  height: 0.09%;
+  width: 1.17%;
+  top: 0.78%;
+  right: 47%;
+  bottom: 99.12%;
+  left: 51.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.formkitdown-icon3,
+.formkitdown-icon4,
+.formkitdown-icon5,
+.formkitdown-icon6,
+.formkitdown-icon7 {
+  right: 34.04%;
+  left: 64.79%;
+}
+.formkitdown-icon4,
+.formkitdown-icon5,
+.formkitdown-icon6,
+.formkitdown-icon7 {
+  right: 27.67%;
+  left: 71.16%;
+}
+.formkitdown-icon5,
+.formkitdown-icon6,
+.formkitdown-icon7 {
+  right: 13.91%;
+  left: 84.92%;
+}
+.formkitdown-icon6,
+.formkitdown-icon7 {
+  right: 8.2%;
+  left: 90.63%;
+}
+.formkitdown-icon7 {
+  right: 41.65%;
+  left: 57.17%;
+}
+.ptba {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 7415px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
