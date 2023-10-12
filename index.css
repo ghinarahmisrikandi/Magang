@@ -510,3 +510,20 @@
   color: var(--color-white);
   font-family: var(--font-poppins);
 }
+.ul-navbar{
+  color: black;
+  position: relative;
+  font-weight: 500;
+  display: flex;
+  justify-content: right;
+  color: #000;
+  font-family: Poppins;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal; 
+}
+.li-navbar{
+  list-style-type: none;
+  padding: 15px;
+}
